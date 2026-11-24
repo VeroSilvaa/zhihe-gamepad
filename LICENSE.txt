@@ -1,0 +1,24 @@
+PlayStation Controller Manager para Zhihe
+Copyright (c) 2026 Veridiano Silva. Todos os direitos reservados.
+
+Este software (o programa "PlayStation Controller Manager" para Windows e o serviço "zgamepad" que
+roda no Zhihe, distribuídos nos Releases deste repositório) é GRATUITO e de CÓDIGO FECHADO.
+
+Você pode:
+  - baixar, instalar e usar o software, inclusive em vários aparelhos, sem custo;
+  - compartilhar os arquivos dos Releases sem modificação, citando este repositório.
+
+Você não pode:
+  - vender o software ou cobrar por ele (inclusive gravado em aparelhos), sem autorização;
+  - descompilar, modificar ou redistribuir versões modificadas do software.
+
+O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO. A instalação no Zhihe apaga o
+sistema original do aparelho; o autor não se responsabiliza por danos ao aparelho, perda de dados ou
+qualquer outro prejuízo decorrente do uso.
+
+Componentes de terceiros incluídos nos Releases mantêm as suas próprias licenças, entre eles:
+  - Linux (GPL-2.0) — alterações e configuração em gpl/ deste repositório;
+  - postmarketOS / Alpine Linux e seus pacotes (licenças de cada pacote);
+  - lk2nd e qhypstub (msm8916-mainline; licenças nos respectivos repositórios);
+  - firmware Qualcomm (tz.mbn), redistribuído como pela comunidade msm8916-mainline;
+  - Python, pywebview e demais bibliotecas do programa do Windows (licenças de cada projeto).
